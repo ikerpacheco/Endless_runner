@@ -1,1 +1,1 @@
-# inifnite_runner
+# infinite_runner
