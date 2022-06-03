@@ -1,4 +1,4 @@
-# endless_runner by ikerpacheco
+# Endless_runner by ikerpacheco
  
 Personal recreation of the classical endless runner games. The objective of the player is to run in the same direction, avoiding the obstacles and enemies that he will come across.
 
